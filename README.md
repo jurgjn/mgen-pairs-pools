@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/16920556/zenodo.16920556.svg)](https://doi.org/10.5281/zenodo.16920556)
+
 # mgen-pairs-pools
 - To study the effect of pooling, we randomly partitioned *M. gen* proteins into five groups. We used the groups to generate all pairwise interactions, and pools of 2k, 3k, 4k and 5k tokens. The pools were sampled naively, there are significantly more overlapping interactions in our pools.
 - Pairs and pools were run with AlphaFold v3.0.1 using default settings on A100 GPUs with 80GB memory
